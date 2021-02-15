@@ -12,7 +12,9 @@ But for now, I've created just a short script to get all the items visible on Ma
 
 
 ### TODO: 
-- There is nothing settable right now (no wishlist, not sure if there is anything else to add)
-
+- There is nothing settable right now (e.g. no wishlist, not sure if there is anything else to add)
+- Marek added new 'sold' labels stating when the seeds will be avaliable again - can change the game a little bit... 
+- second webpage should be permaland.cz 
+- then maybe some CZ mortgage refinancing interest rates >:-) 
 
 Enjoy! 
